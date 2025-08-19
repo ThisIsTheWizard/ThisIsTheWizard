@@ -1,6 +1,9 @@
 <p align="center">
-  <a href="mailto:hkiehs421@gmail.com">Email (hkiehs421@gmail.com)</a> | 
-  <a href="tel:+8801939633348">Phone (+8801939-633348)</a>
+  👋 Hello there! Welcome to my GitHub profile!
+</p>
+
+<p align="center">
+  Feel free to check out my projects, repositories, and connect with me! 👍💻
 </p>
 
 ---
@@ -10,6 +13,11 @@
 As a senior web developer with a strong background in leading teams and managing projects throughout the entire software development lifecycle. My expertise spans both front-end and back-end development, with a focus on Node.js and modern web technologies. I enjoy mentoring others, encouraging collaboration, and driving projects from initial concept to successful delivery. With hands-on experience in cloud computing and a variety of programming language skills, I strive to create innovative and efficient solutions while staying up to date with the latest industry trends.  
 
 [GitHub](https://github.com/ThisIsTheWizard) | [LinkedIn](https://www.linkedin.com/in/sheikh-is-the-wizard/) | [Facebook](https://www.facebook.com/SheikhIsTheWizard)  
+
+<p align="left">
+  <a href="mailto:hkiehs421@gmail.com">Email (hkiehs421@gmail.com)</a> | 
+  <a href="tel:+8801939633348">Phone (+8801939-633348)</a>
+</p>
 
 ---
 
