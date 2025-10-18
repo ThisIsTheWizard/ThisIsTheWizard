@@ -137,4 +137,14 @@ As a senior web developer with a strong background in leading teams and managing
     <img src="https://sheikhthewizard.world/assets/projects/dg.jpg" height="150"/></a>
   </td>
 </tr>
+  <tr>
+  <td align="center">
+    <a href="https://next.sheikhthewizard.world"><b>NextJS Admin</b><br/>
+    <img src="https://sheikhthewizard.world/assets/projects/next.png" height="150"/></a>
+  </td>
+  <td align="center">
+    <a href="https://nuxt.sheikhthewizard.world"><b>NuxtJS Admin</b><br/>
+    <img src="https://sheikhthewizard.world/assets/projects/nuxt.png" height="150"/></a>
+  </td>
+</tr>
 </table>
