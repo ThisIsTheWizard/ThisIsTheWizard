@@ -41,19 +41,19 @@ As a senior web developer with a strong background in leading teams and managing
 
 <table width="100%">
 <tr>
-  <td align="center"><img src="https://wizardcld.com/assets/tools/aws.png" width="50"/><br/>AWS</td>
-  <td align="center"><img src="https://wizardcld.com/assets/tools/lambda.webp" width="50"/><br/>AWS Lambda</td>
-  <td align="center"><img src="https://wizardcld.com/assets/tools/s3.png" width="50"/><br/>AWS S3</td>
+  <td align="center"><img src="https://portfolio.wizardcld.com/assets/tools/aws.png" width="50"/><br/>AWS</td>
+  <td align="center"><img src="https://portfolio.wizardcld.com/assets/tools/lambda.webp" width="50"/><br/>AWS Lambda</td>
+  <td align="center"><img src="https://portfolio.wizardcld.com/assets/tools/s3.png" width="50"/><br/>AWS S3</td>
 </tr>
 <tr>
-  <td align="center"><img src="https://wizardcld.com/assets/tools/graphql.png" width="50"/><br/>GraphQL</td>
-  <td align="center"><img src="https://wizardcld.com/assets/tools/express.png" width="50"/><br/>Express.js</td>
-  <td align="center"><img src="https://wizardcld.com/assets/tools/node.webp" width="50"/><br/>Node.js</td>
+  <td align="center"><img src="https://portfolio.wizardcld.com/assets/tools/graphql.png" width="50"/><br/>GraphQL</td>
+  <td align="center"><img src="https://portfolio.wizardcld.com/assets/tools/express.png" width="50"/><br/>Express.js</td>
+  <td align="center"><img src="https://portfolio.wizardcld.com/assets/tools/node.webp" width="50"/><br/>Node.js</td>
 </tr>
 <tr>
-  <td align="center"><img src="https://wizardcld.com/assets/tools/next.webp" width="50"/><br/>Next.js</td>
-  <td align="center"><img src="https://wizardcld.com/assets/tools/react.png" width="50"/><br/>React.js</td>
-  <td align="center"><img src="https://wizardcld.com/assets/tools/js.webp" width="50"/><br/>TS/JS</td>
+  <td align="center"><img src="https://portfolio.wizardcld.com/assets/tools/next.webp" width="50"/><br/>Next.js</td>
+  <td align="center"><img src="https://portfolio.wizardcld.com/assets/tools/react.png" width="50"/><br/>React.js</td>
+  <td align="center"><img src="https://portfolio.wizardcld.com/assets/tools/js.webp" width="50"/><br/>TS/JS</td>
 </tr>
 </table>
 
@@ -112,39 +112,39 @@ As a senior web developer with a strong background in leading teams and managing
 <tr>
   <td align="center">
     <a href="https://uniteliving.com"><b>Unite Living</b><br/>
-    <img src="https://wizardcld.com/assets/projects/ul.png" height="150"/></a>
+    <img src="https://portfolio.wizardcld.com/assets/projects/ul.png" height="150"/></a>
   </td>
   <td align="center">
     <a href="https://payrun.app"><b>PayRun</b><br/>
-    <img src="https://wizardcld.com/assets/projects/payrun.webp" height="150"/></a>
+    <img src="https://portfolio.wizardcld.com/assets/projects/payrun.webp" height="150"/></a>
   </td>
   <td align="center">
     <a href="https://easydesk.app"><b>EasyDesk</b><br/>
-    <img src="https://wizardcld.com/assets/projects/easydesk.webp" height="150"/></a>
+    <img src="https://portfolio.wizardcld.com/assets/projects/easydesk.webp" height="150"/></a>
   </td>
 </tr>
 <tr>
   <td align="center">
     <a href="https://cashio.wizardcld.com"><b>Cashio Accountant</b><br/>
-    <img src="https://wizardcld.com/assets/projects/cashio.png" height="150"/></a>
+    <img src="https://portfolio.wizardcld.com/assets/projects/cashio.png" height="150"/></a>
   </td>
   <td align="center">
     <a href="https://account.wizardcld.com"><b>Wizard Accounts Manager</b><br/>
-    <img src="https://wizardcld.com/assets/projects/wam.png" height="150"/></a>
+    <img src="https://portfolio.wizardcld.com/assets/projects/wam.png" height="150"/></a>
   </td>
   <td align="center">
     <a href="https://designghor.com"><b>DesignGhor</b><br/>
-    <img src="https://wizardcld.com/assets/projects/dg.jpg" height="150"/></a>
+    <img src="https://portfolio.wizardcld.com/assets/projects/dg.jpg" height="150"/></a>
   </td>
 </tr>
   <tr>
   <td align="center">
     <a href="https://next.wizardcld.com"><b>NextJS Admin</b><br/>
-    <img src="https://wizardcld.com/assets/projects/next.png" height="150"/></a>
+    <img src="https://portfolio.wizardcld.com/assets/projects/next.png" height="150"/></a>
   </td>
   <td align="center">
     <a href="https://nuxt.wizardcld.com"><b>NuxtJS Admin</b><br/>
-    <img src="https://wizardcld.com/assets/projects/nuxt.png" height="150"/></a>
+    <img src="https://portfolio.wizardcld.com/assets/projects/nuxt.png" height="150"/></a>
   </td>
 </tr>
 </table>
