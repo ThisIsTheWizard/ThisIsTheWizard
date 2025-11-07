@@ -20,113 +20,95 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=%F0%9F%8E%AF+About+Me" alt="About Me" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=%F0%9F%8E%AF+Work+Experience" alt="Experience" />
 </div>
 
 <br/>
 
-<table border="0" width="100%">
-<tr>
-<td width="50%" valign="top">
+### � Senior Software Engineer (Team Lead)
+**Gain Solutions Ltd** • *Oct 2023 – Dec 2025* • `2+ years`
 
-### 👨‍💻 Who Am I?
-
-```typescript
-const elias = {
-  role: "Senior Software Engineer",
-  company: "Gain Solutions Ltd",
-  location: "Bangladesh 🇧🇩",
-  experience: "6+ years",
-  focus: ["Full-Stack", "Cloud", "Leadership"],
-  passion: "Building scalable solutions",
-  motto: "Code, Learn, Lead, Repeat 🔄"
-};
-```
-
-</td>
-<td width="50%" valign="top">
-
-### 🚀 Quick Facts
-
-- 🔭 Currently leading engineering teams
-- 🌱 Exploring advanced cloud architectures
-- 💡 Passionate about mentoring developers
-- 🎯 Driving projects from concept to delivery
-- ☁️ AWS & Cloud Infrastructure Expert
-- 🤝 Open to collaborations & opportunities
-- 🚀 Building scalable solutions for global impact
-- 📈 Optimizing systems for maximum performance
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-> As a senior software engineer with a strong background in leading teams and managing projects throughout the entire software development lifecycle. My expertise spans both front-end and back-end development, with a focus on Node.js and modern web technologies. I enjoy mentoring others, encouraging collaboration, and driving projects from initial concept to successful delivery
-
-</div>
+<details open>
+<summary><b>Key Responsibilities & Achievements</b></summary>
 
 <br/>
 
----
+- ⚡ **Architecture & Development**
+  - Architecting and developing scalable backend systems handling millions of requests
+  - Designing and implementing RESTful and GraphQL APIs for seamless integration
+  
+- ☁️ **Cloud & Infrastructure**
+  - Optimizing AWS cloud infrastructure reducing costs by 30%
+  - Managing serverless architectures with AWS Lambda and S3
+  
+- � **DevOps & Automation**
+  - Automating deployment pipelines using CI/CD best practices
+  - Implementing monitoring and alerting systems for 99.9% uptime
+  
+- 👥 **Leadership & Strategy**
+  - Leading a team of 8+ engineers across multiple projects
+  - Defining technical strategy and aligning with business goals
+  - Mentoring junior developers and conducting code reviews
+  - Managing project budgets and implementing cost-effective solutions
+  
+- 🔐 **Security & Compliance**
+  - Overseeing security, compliance, and risk management
+  - Implementing security best practices across all systems
+
+</details>
+
+### 💻 Software Engineer
+**Gain Solutions Ltd** • *Nov 2020 – Sept 2023* • `3 years`
+
+<details>
+<summary><b>Key Responsibilities & Achievements</b></summary>
 
 <br/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=%F0%9F%92%BC+Core+Skills" alt="Skills" />
-</div>
+- 🏗️ **Backend Development**
+  - Designed, developed, and maintained server-side logic for multiple applications
+  - Built scalable APIs serving 100K+ daily active users
+  
+- 📊 **Database Management**
+  - Managed databases ensuring efficient data storage and retrieval
+  - Optimized database queries improving performance by 50%
+  
+- 🔌 **Integration & APIs**
+  - Implemented APIs and integrated third-party services
+  - Built webhook systems for real-time data synchronization
+  
+- ☁️ **AWS Services**
+  - Managed AWS Lambda functions for efficient serverless computing
+  - Configured and maintained AWS S3 for secure storage solutions
+  - Implemented automated data processing workflows using AWS services
+
+</details>
+
+### 🌐 Software Engineer
+**Eliassoft.com** • *Dec 2018 – Oct 2020* • `2 years`
+
+<details>
+<summary><b>Key Responsibilities & Achievements</b></summary>
 
 <br/>
 
-<div align="center">
+- 🔧 **API Development**
+  - Developed and maintained RESTful APIs using Laravel
+  - Built authentication systems using OAuth and JWT
+  
+- ⚡ **Performance & Security**
+  - Optimized API performance ensuring scalability
+  - Ensured secure data transmission and compliance
+  
+- 🔗 **Third-Party Integration**
+  - Integrated third-party APIs using JavaScript AJAX
+  - Implemented API request validation and error handling
+  
+- 🤝 **Collaboration**
+  - Collaborated with frontend developers for seamless API consumption
+  - Monitored API usage and troubleshot integration issues
 
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/puzzle.png" width="50"/><br/>
-<b>System Architecture</b>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/cloud.png" width="50"/><br/>
-<b>Cloud Infrastructure</b>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/server.png" width="50"/><br/>
-<b>Database Management</b>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/code.png" width="50"/><br/>
-<b>Full-Stack Dev</b>
-</td>
-</tr>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/?size=100&id=AepDd8ZTdbUE&format=png&color=ffffff" width="50"/><br/>
-<b>CI/CD Pipelines</b>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/smartphone-tablet.png" width="50"/><br/>
-<b>Mobile Development</b>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/test-tube.png" width="50"/><br/>
-<b>Software Testing</b>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/leadership.png" width="50"/><br/>
-<b>Team Leadership</b>
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
----
-
-<br/>
+</details>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack" alt="Tech Stack" />
@@ -189,36 +171,25 @@ const elias = {
 
 <br/>
 
-<table border="0" width="100%">
-<tr>
-<td width="50%" valign="top">
-
-#### 🏗️ Architecture & Design
+#### Architecture & Design
 - 🖥️ Website Architecture & Design
 - 📊 Database Architecture & Design
 - ☁️ Cloud Infrastructure Design
 
-#### 💻 Development Services
+#### Development Services
 - 🌐 Web Application Development
 - 🚀 Full-Stack Application Development
 - 🔗 API & System Integration
 
-</td>
-<td width="50%" valign="top">
-
-#### ⚙️ Operations & Deployment
+#### Operations & Deployment
 - ☁️ Cloud Infrastructure & Deployment
 - 🔄 CI/CD Pipeline Implementation
 - 📈 Performance Optimization
 
-#### 👥 Leadership & Mentorship
+#### Leadership & Mentorship
 - 🎯 Technical Leadership
 - 👨‍🏫 Developer Mentorship
 - 📋 Project Management
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -231,10 +202,6 @@ const elias = {
 </div>
 
 <br/>
-
-<table border="0" width="100%">
-<tr>
-<td width="100%">
 
 ### 🚀 Senior Software Engineer (Team Lead)
 **Gain Solutions Ltd** • *Oct 2023 – Dec 2025* • `2+ years`
@@ -268,11 +235,6 @@ const elias = {
 
 </details>
 
-</td>
-</tr>
-<tr>
-<td width="100%">
-
 ### 💻 Software Engineer
 **Gain Solutions Ltd** • *Nov 2020 – Sept 2023* • `3 years`
 
@@ -300,11 +262,6 @@ const elias = {
 
 </details>
 
-</td>
-</tr>
-<tr>
-<td width="100%">
-
 ### 🌐 Software Engineer
 **Eliassoft.com** • *Dec 2018 – Oct 2020* • `2 years`
 
@@ -330,10 +287,6 @@ const elias = {
   - Monitored API usage and troubleshot integration issues
 
 </details>
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -625,7 +578,7 @@ Elegant admin dashboard template built with Nuxt.js.
 <a href="https://portfolio.wizardcld.com">
 <img src="https://img.icons8.com/color/96/000000/domain.png" width="60"/><br/>
 <b>Portfolio</b><br/>
-<sub>portfolio.wizardcld.com</sub>
+<sub>My Showcase</sub>
 </a>
 </td>
 <td align="center" width="25%">
