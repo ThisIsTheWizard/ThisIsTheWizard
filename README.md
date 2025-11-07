@@ -1,157 +1,241 @@
-<p align="center">
-  👋 Hello there! Welcome to my GitHub profile!
-</p>
+<div align="center">
 
-<p align="center">
-  Feel free to check out my projects, repositories, and connect with me! 👍💻
-</p>
+# 👋 Hello, I'm Sheikh - The Wizard! ✨
 
----
+### Senior Web Developer | Team Lead | Full-Stack Engineer
 
-## About Me  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Senior+Software+Engineer;Full-Stack+Developer;Cloud+Architecture+Expert;Always+learning+new+things!" alt="Typing SVG" />
 
-As a senior web developer with a strong background in leading teams and managing projects throughout the entire software development lifecycle. My expertise spans both front-end and back-end development, with a focus on Node.js and modern web technologies. I enjoy mentoring others, encouraging collaboration, and driving projects from initial concept to successful delivery. With hands-on experience in cloud computing and a variety of programming language skills, I strive to create innovative and efficient solutions while staying up to date with the latest industry trends.  
+[![GitHub followers](https://img.shields.io/github/followers/ThisIsTheWizard?style=social)](https://github.com/ThisIsTheWizard)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sheikh-is-the-wizard/)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=flat&logo=facebook)](https://www.facebook.com/SheikhIsTheWizard)
+[![Email](https://img.shields.io/badge/Email-hkiehs421%40gmail.com-red?style=flat&logo=gmail)](mailto:hkiehs421@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B880%201939--633348-green?style=flat&logo=whatsapp)](tel:+8801939633348)
 
-[GitHub](https://github.com/ThisIsTheWizard) | [LinkedIn](https://www.linkedin.com/in/sheikh-is-the-wizard/) | [Facebook](https://www.facebook.com/SheikhIsTheWizard)  
-
-<p align="left">
-  <a href="mailto:hkiehs421@gmail.com">Email (hkiehs421@gmail.com)</a> | 
-  <a href="tel:+8801939633348">Phone (+8801939-633348)</a>
-</p>
+</div>
 
 ---
 
-## Skills  
+## 🎯 About Me
 
-- 🧩 System Architecture  
-- ☁️ Cloud Infrastructure  
-- 🌥️ Cloud Deployment  
-- 📊 Database Management  
-- 🔄 CI/CD Implementation  
-- 💻 Full-Stack Development  
-- 📱 Mobile App Development  
-- 🧪 Software Testing  
-- 📈 Performance Optimization  
-- 👥 Team Leadership  
-- 📝 Technical Documentation  
+> As a senior web developer with a strong background in leading teams and managing projects throughout the entire software development lifecycle, my expertise spans both front-end and back-end development. I'm passionate about building scalable systems, optimizing cloud infrastructure, and mentoring teams to deliver exceptional software solutions.
+
+<div align="center">
+
+### 🌟 Quick Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=ThisIsTheWizard&color=blueviolet&style=flat-square)
+
+</div>
 
 ---
 
-## Tools  
+## 💼 Core Competencies
 
-<table width="100%">
+<table>
 <tr>
-  <td align="center"><img src="https://portfolio.wizardcld.com/assets/tools/aws.png" width="50"/><br/>AWS</td>
-  <td align="center"><img src="https://portfolio.wizardcld.com/assets/tools/lambda.webp" width="50"/><br/>AWS Lambda</td>
-  <td align="center"><img src="https://portfolio.wizardcld.com/assets/tools/amplify.png" width="50"/><br/>AWS Amplify</td>
-  <td align="center"><img src="https://portfolio.wizardcld.com/assets/tools/s3.png" width="50"/><br/>AWS S3</td>
-</tr>
-<tr>
-  <td align="center"><img src="https://portfolio.wizardcld.com/assets/tools/nest.png" width="50"/><br/>Nest.js</td>
-  <td align="center"><img src="https://portfolio.wizardcld.com/assets/tools/express.png" width="50"/><br/>Express.js</td>
-  <td align="center"><img src="https://portfolio.wizardcld.com/assets/tools/node.webp" width="50"/><br/>Node.js</td>
-  <td align="center"><img src="https://portfolio.wizardcld.com/assets/tools/graphql.png" width="50"/><br/>GraphQL</td>
-</tr>
-<tr>
-  <td align="center"><img src="https://portfolio.wizardcld.com/assets/tools/laravel.webp" width="50"/><br/>Laravel</td>
-  <td align="center"><img src="https://portfolio.wizardcld.com/assets/tools/django.png" width="50"/><br/>Django</td>
-  <td align="center"><img src="https://portfolio.wizardcld.com/assets/tools/python.jpg" width="50"/><br/>Python</td>
-</tr>
-<tr>
-  <td align="center"><img src="https://portfolio.wizardcld.com/assets/tools/next.webp" width="50"/><br/>Next.js</td>
-  <td align="center"><img src="https://portfolio.wizardcld.com/assets/tools/react.png" width="50"/><br/>React.js</td>
-  <td align="center"><img src="https://portfolio.wizardcld.com/assets/tools/js.webp" width="50"/><br/>TS/JS</td>
+<td width="50%" valign="top">
+
+### 🏗️ Architecture & Infrastructure
+- 🧩 System Architecture Design
+- ☁️ Cloud Infrastructure Management
+- 🌥️ Cloud Deployment & Migration
+- 🔄 CI/CD Pipeline Implementation
+- 📈 Performance Optimization
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 Development & Leadership
+- 💻 Full-Stack Development
+- 📱 Mobile App Development
+- 📊 Database Management
+- 🧪 Software Testing & QA
+- 👥 Team Leadership & Mentoring
+- 📝 Technical Documentation
+
+</td>
 </tr>
 </table>
 
 ---
 
-## Work Experience  
+## 🛠️ Tech Stack & Tools
 
-### Senior Software Engineer Team Lead  
-**Gain Solutions Ltd (Oct 2023 – Dec 2025)**  
+<div align="center">
 
-- Architect and develop scalable backend systems  
-- Design and implement APIs for seamless integration  
-- Optimize cloud infrastructure for performance and security  
-- Automate deployment pipelines using CI/CD best practices  
-- Ensure system reliability, monitoring, and troubleshooting  
-- Lead engineering teams and foster innovation  
-- Define technical strategy and align technology with business goals  
-- Manage budgets and implement cost-effective solutions  
-- Oversee security, compliance, and risk management  
-- Manage SDLC across multiple projects  
-- Collaborate with stakeholders to drive growth and efficiency  
+### ☁️ Cloud & Infrastructure
+<img src="https://portfolio.wizardcld.com/assets/tools/aws.png" height="60" alt="AWS"/> &nbsp;&nbsp;
+<img src="https://portfolio.wizardcld.com/assets/tools/lambda.webp" height="60" alt="Lambda"/> &nbsp;&nbsp;
+<img src="https://portfolio.wizardcld.com/assets/tools/amplify.png" height="60" alt="Amplify"/> &nbsp;&nbsp;
+<img src="https://portfolio.wizardcld.com/assets/tools/s3.png" height="60" alt="S3"/>
 
----
+### 🔧 Backend Technologies
+<img src="https://portfolio.wizardcld.com/assets/tools/nest.png" height="60" alt="Nest.js"/> &nbsp;&nbsp;
+<img src="https://portfolio.wizardcld.com/assets/tools/express.png" height="60" alt="Express.js"/> &nbsp;&nbsp;
+<img src="https://portfolio.wizardcld.com/assets/tools/node.webp" height="60" alt="Node.js"/> &nbsp;&nbsp;
+<img src="https://portfolio.wizardcld.com/assets/tools/graphql.png" height="60" alt="GraphQL"/> &nbsp;&nbsp;
+<img src="https://portfolio.wizardcld.com/assets/tools/laravel.webp" height="60" alt="Laravel"/> &nbsp;&nbsp;
+<img src="https://portfolio.wizardcld.com/assets/tools/django.png" height="60" alt="Django"/> &nbsp;&nbsp;
+<img src="https://portfolio.wizardcld.com/assets/tools/python.jpg" height="60" alt="Python"/>
 
-### Software Engineer  
-**Gain Solutions Ltd (Nov 2020 – Sept 2023)**  
+### 🎨 Frontend Technologies
+<img src="https://portfolio.wizardcld.com/assets/tools/next.webp" height="60" alt="Next.js"/> &nbsp;&nbsp;
+<img src="https://portfolio.wizardcld.com/assets/tools/react.png" height="60" alt="React.js"/> &nbsp;&nbsp;
+<img src="https://portfolio.wizardcld.com/assets/tools/js.webp" height="60" alt="TypeScript/JavaScript"/>
 
-- Designing, developing, and maintaining server-side logic  
-- Managing databases and ensuring efficient data storage and retrieval  
-- Implementing APIs and integrating third-party services  
-- Optimizing application performance and scalability  
-- Ensuring security best practices for backend systems  
-- Managing AWS Lambda functions for efficient serverless computing  
-- Configuring and maintaining AWS S3 for secure and scalable storage solutions  
-- Implementing automated data processing workflows using AWS services  
+</div>
 
 ---
 
-### Software Engineer  
-**Eliassoft.com (Dec 2018 – Oct 2020)**  
+## 💼 Professional Journey
 
-- Develop and maintain RESTful APIs using Laravel  
-- Implement authentication and authorization mechanisms (OAuth, JWT)  
-- Optimize API performance and ensure scalability  
-- Integrate third-party APIs using JavaScript AJAX  
-- Handle API request validation and error handling  
-- Ensure secure data transmission and compliance with best practices  
-- Monitor API usage and troubleshoot integration issues  
-- Collaborate with frontend developers for seamless API consumption  
+### 🚀 Senior Software Engineer Team Lead
+**Gain Solutions Ltd** | *Oct 2023 – Dec 2025*
+
+<details>
+<summary>👉 Click to expand responsibilities</summary>
+
+- ⚡ Architect and develop scalable backend systems
+- 🔌 Design and implement APIs for seamless integration
+- ☁️ Optimize cloud infrastructure for performance and security
+- 🤖 Automate deployment pipelines using CI/CD best practices
+- 🛡️ Ensure system reliability, monitoring, and troubleshooting
+- 👥 Lead engineering teams and foster innovation
+- 📋 Define technical strategy and align technology with business goals
+- 💰 Manage budgets and implement cost-effective solutions
+- 🔐 Oversee security, compliance, and risk management
+- 🔄 Manage SDLC across multiple projects
+- 🤝 Collaborate with stakeholders to drive growth and efficiency
+
+</details>
 
 ---
 
-## Projects  
+### 💻 Software Engineer
+**Gain Solutions Ltd** | *Nov 2020 – Sept 2023*
 
-<table width="100%">
+<details>
+<summary>👉 Click to expand responsibilities</summary>
+
+- 🏗️ Designing, developing, and maintaining server-side logic
+- 📊 Managing databases and ensuring efficient data storage and retrieval
+- 🔌 Implementing APIs and integrating third-party services
+- ⚡ Optimizing application performance and scalability
+- 🔐 Ensuring security best practices for backend systems
+- ⚙️ Managing AWS Lambda functions for efficient serverless computing
+- 📦 Configuring and maintaining AWS S3 for secure and scalable storage solutions
+- 🔄 Implementing automated data processing workflows using AWS services
+
+</details>
+
+---
+
+### 🌐 Software Engineer
+**Eliassoft.com** | *Dec 2018 – Oct 2020*
+
+<details>
+<summary>👉 Click to expand responsibilities</summary>
+
+- 🔧 Develop and maintain RESTful APIs using Laravel
+- 🔐 Implement authentication and authorization mechanisms (OAuth, JWT)
+- ⚡ Optimize API performance and ensure scalability
+- 🔌 Integrate third-party APIs using JavaScript AJAX
+- ✅ Handle API request validation and error handling
+- 🛡️ Ensure secure data transmission and compliance with best practices
+- 📊 Monitor API usage and troubleshoot integration issues
+- 🤝 Collaborate with frontend developers for seamless API consumption
+
+</details>
+
+---
+
+## 🎨 Featured Projects
+
+<div align="center">
+
+<table>
 <tr>
-  <td align="center">
-    <a href="https://uniteliving.com"><b>Unite Living</b><br/>
-    <img src="https://portfolio.wizardcld.com/assets/projects/ul.png" height="150"/></a>
-  </td>
-  <td align="center">
-    <a href="https://payrun.app"><b>PayRun</b><br/>
-    <img src="https://portfolio.wizardcld.com/assets/projects/payrun.webp" height="150"/></a>
-  </td>
-  <td align="center">
-    <a href="https://easydesk.app"><b>EasyDesk</b><br/>
-    <img src="https://portfolio.wizardcld.com/assets/projects/easydesk.webp" height="150"/></a>
-  </td>
+<td align="center" width="33%">
+<a href="https://uniteliving.com">
+<img src="https://portfolio.wizardcld.com/assets/projects/ul.png" height="180" alt="Unite Living"/><br/>
+<b>🏠 Unite Living</b>
+</a>
+</td>
+<td align="center" width="33%">
+<a href="https://payrun.app">
+<img src="https://portfolio.wizardcld.com/assets/projects/payrun.webp" height="180" alt="PayRun"/><br/>
+<b>💰 PayRun</b>
+</a>
+</td>
+<td align="center" width="33%">
+<a href="https://easydesk.app">
+<img src="https://portfolio.wizardcld.com/assets/projects/easydesk.webp" height="180" alt="EasyDesk"/><br/>
+<b>📞 EasyDesk</b>
+</a>
+</td>
 </tr>
 <tr>
-  <td align="center">
-    <a href="https://cashio.wizardcld.com"><b>Cashio Accountant</b><br/>
-    <img src="https://portfolio.wizardcld.com/assets/projects/cashio.png" height="150"/></a>
-  </td>
-  <td align="center">
-    <a href="https://account.wizardcld.com"><b>Wizard Accounts Manager</b><br/>
-    <img src="https://portfolio.wizardcld.com/assets/projects/wam.png" height="150"/></a>
-  </td>
-  <td align="center">
-    <a href="https://designghor.com"><b>DesignGhor</b><br/>
-    <img src="https://portfolio.wizardcld.com/assets/projects/dg.jpg" height="150"/></a>
-  </td>
+<td align="center" width="33%">
+<a href="https://cashio.wizardcld.com">
+<img src="https://portfolio.wizardcld.com/assets/projects/cashio.png" height="180" alt="Cashio"/><br/>
+<b>💼 Cashio Accountant</b>
+</a>
+</td>
+<td align="center" width="33%">
+<a href="https://account.wizardcld.com">
+<img src="https://portfolio.wizardcld.com/assets/projects/wam.png" height="180" alt="Wizard Accounts"/><br/>
+<b>🧙 Wizard Accounts Manager</b>
+</a>
+</td>
+<td align="center" width="33%">
+<a href="https://designghor.com">
+<img src="https://portfolio.wizardcld.com/assets/projects/dg.jpg" height="180" alt="DesignGhor"/><br/>
+<b>🎨 DesignGhor</b>
+</a>
+</td>
 </tr>
-  <tr>
-  <td align="center">
-    <a href="https://next.wizardcld.com"><b>NextJS Admin</b><br/>
-    <img src="https://portfolio.wizardcld.com/assets/projects/next.png" height="150"/></a>
-  </td>
-  <td align="center">
-    <a href="https://nuxt.wizardcld.com"><b>NuxtJS Admin</b><br/>
-    <img src="https://portfolio.wizardcld.com/assets/projects/nuxt.png" height="150"/></a>
-  </td>
+<tr>
+<td align="center" width="33%">
+<a href="https://next.wizardcld.com">
+<img src="https://portfolio.wizardcld.com/assets/projects/next.png" height="180" alt="NextJS Admin"/><br/>
+<b>⚡ NextJS Admin</b>
+</a>
+</td>
+<td align="center" width="33%">
+<a href="https://nuxt.wizardcld.com">
+<img src="https://portfolio.wizardcld.com/assets/projects/nuxt.png" height="180" alt="NuxtJS Admin"/><br/>
+<b>🚀 NuxtJS Admin</b>
+</a>
+</td>
+<td align="center" width="33%">
+<!-- Space for future project -->
+</td>
 </tr>
 </table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📫 Let's Connect!
+
+**Feel free to reach out for collaborations, opportunities, or just a friendly chat!**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/ThisIsTheWizard)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sheikh-is-the-wizard/)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/SheikhIsTheWizard)
+
+### 💌 Direct Contact
+📧 **Email:** [hkiehs421@gmail.com](mailto:hkiehs421@gmail.com)  
+📱 **Phone:** [+880 1939-633348](tel:+8801939633348)
+
+---
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+### ⭐ From [ThisIsTheWizard](https://github.com/ThisIsTheWizard) with 💙
+
+</div>
