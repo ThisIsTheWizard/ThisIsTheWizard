@@ -19,7 +19,7 @@
 
 ## 🎯 About Me
 
-> As a senior software engineer with a strong background in leading teams and managing projects throughout the entire software development lifecycle, my expertise spans both front-end and back-end development. I'm passionate about building scalable systems, optimizing cloud infrastructure, and mentoring teams to deliver exceptional software solutions.
+> As a senior software engineer with a strong background in leading teams and managing projects throughout the entire software development lifecycle. My expertise spans both front-end and back-end development, with a focus on Node.js and modern web technologies. I enjoy mentoring others, encouraging collaboration, and driving projects from initial concept to successful delivery. With hands-on experience in cloud computing and a variety of programming language skills, I strive to create innovative and efficient solutions while staying up to date with the latest industry trends.
 
 <div align="center">
 
@@ -31,13 +31,9 @@
 
 ---
 
-## 💼 Core Competencies
+## 💼 Skills
 
-### 🏗️ Architecture & Infrastructure
-🧩 System Architecture Design • ☁️ Cloud Infrastructure Management • 🌥️ Cloud Deployment & Migration • 🔄 CI/CD Pipeline Implementation • 📈 Performance Optimization
-
-### 💻 Development & Leadership
-💻 Full-Stack Development • 📱 Mobile App Development • 📊 Database Management • 🧪 Software Testing & QA • 👥 Team Leadership & Mentoring • 📝 Technical Documentation
+🧩 System Architecture • ☁️ Cloud Infrastructure • 🌥️ Cloud Deployment • 📊 Database Management • 🔄 CI/CD Implementation • 💻 Full-Stack Development • 📱 Mobile App Development • 🧪 Software Testing • 📈 Performance Optimization • 👥 Team Leadership • 📝 Technical Documentation
 
 ---
 
@@ -46,32 +42,126 @@
 <div align="center">
 
 ### ☁️ Cloud & Infrastructure
-<img src="https://portfolio.wizardcld.com/assets/tools/aws.png" height="60" alt="AWS"/> &nbsp;&nbsp;
-<img src="https://portfolio.wizardcld.com/assets/tools/lambda.webp" height="60" alt="Lambda"/> &nbsp;&nbsp;
-<img src="https://portfolio.wizardcld.com/assets/tools/amplify.png" height="60" alt="Amplify"/> &nbsp;&nbsp;
-<img src="https://portfolio.wizardcld.com/assets/tools/s3.png" height="60" alt="S3"/>
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://portfolio.wizardcld.com/assets/tools/aws.png" width="48" height="48" alt="AWS" />
+<br>AWS Services
+<br><sub>Intermediate</sub>
+</td>
+<td align="center" width="96">
+<img src="https://portfolio.wizardcld.com/assets/tools/lambda.webp" width="48" height="48" alt="Lambda" />
+<br>AWS Lambda
+<br><sub>Intermediate</sub>
+</td>
+<td align="center" width="96">
+<img src="https://portfolio.wizardcld.com/assets/tools/s3.png" width="48" height="48" alt="S3" />
+<br>AWS S3
+<br><sub>Intermediate</sub>
+</td>
+</tr>
+</table>
 
 ### 🔧 Backend Technologies
-<img src="https://portfolio.wizardcld.com/assets/tools/nest.png" height="60" alt="Nest.js"/> &nbsp;&nbsp;
-<img src="https://portfolio.wizardcld.com/assets/tools/express.png" height="60" alt="Express.js"/> &nbsp;&nbsp;
-<img src="https://portfolio.wizardcld.com/assets/tools/node.webp" height="60" alt="Node.js"/> &nbsp;&nbsp;
-<img src="https://portfolio.wizardcld.com/assets/tools/graphql.png" height="60" alt="GraphQL"/> &nbsp;&nbsp;
-<img src="https://portfolio.wizardcld.com/assets/tools/laravel.webp" height="60" alt="Laravel"/> &nbsp;&nbsp;
-<img src="https://portfolio.wizardcld.com/assets/tools/django.png" height="60" alt="Django"/> &nbsp;&nbsp;
-<img src="https://portfolio.wizardcld.com/assets/tools/python.jpg" height="60" alt="Python"/>
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://portfolio.wizardcld.com/assets/tools/node.webp" width="48" height="48" alt="Node.js" />
+<br>Node.js
+<br><sub>Intermediate</sub>
+</td>
+<td align="center" width="96">
+<img src="https://portfolio.wizardcld.com/assets/tools/express.png" width="48" height="48" alt="Express" />
+<br>Express.js
+<br><sub>Intermediate</sub>
+</td>
+<td align="center" width="96">
+<img src="https://portfolio.wizardcld.com/assets/tools/nest.png" width="48" height="48" alt="Nest" />
+<br>Nest.js
+<br><sub>Beginner</sub>
+</td>
+<td align="center" width="96">
+<img src="https://portfolio.wizardcld.com/assets/tools/graphql.png" width="48" height="48" alt="GraphQL" />
+<br>GraphQL
+<br><sub>Intermediate</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://portfolio.wizardcld.com/assets/tools/laravel.webp" width="48" height="48" alt="Laravel" />
+<br>Laravel
+<br><sub>Intermediate</sub>
+</td>
+<td align="center" width="96">
+<img src="https://portfolio.wizardcld.com/assets/tools/django.png" width="48" height="48" alt="Django" />
+<br>Django
+<br><sub>Beginner</sub>
+</td>
+<td align="center" width="96">
+<img src="https://portfolio.wizardcld.com/assets/tools/python.jpg" width="48" height="48" alt="Python" />
+<br>Python
+<br><sub>Beginner</sub>
+</td>
+</tr>
+</table>
 
 ### 🎨 Frontend Technologies
-<img src="https://portfolio.wizardcld.com/assets/tools/next.webp" height="60" alt="Next.js"/> &nbsp;&nbsp;
-<img src="https://portfolio.wizardcld.com/assets/tools/react.png" height="60" alt="React.js"/> &nbsp;&nbsp;
-<img src="https://portfolio.wizardcld.com/assets/tools/js.webp" height="60" alt="TypeScript/JavaScript"/>
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://portfolio.wizardcld.com/assets/tools/react.png" width="48" height="48" alt="React" />
+<br>React.js
+<br><sub>Intermediate</sub>
+</td>
+<td align="center" width="96">
+<img src="https://portfolio.wizardcld.com/assets/tools/next.webp" width="48" height="48" alt="Next" />
+<br>Next.js
+<br><sub>Intermediate</sub>
+</td>
+<td align="center" width="96">
+<img src="https://portfolio.wizardcld.com/assets/tools/js.webp" width="48" height="48" alt="TS/JS" />
+<br>TS/JS
+<br><sub>Intermediate</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
+## 🎯 My Services
+
+<div align="center">
+
+```
+🖥️  Website Architecture & Design          📊  Database Architecture & Design
+💻  Web Application Development            🚀  Full-Stack Application Development
+🔗  API & System Integration                ☁️  Cloud Infrastructure & Deployment
+🔄  CI/CD Pipeline Implementation          👥  Technical Leadership & Mentorship
+```
+
+</div>
+
+---
+
+## 🎓 Education
+
+- 🎓 **B.Sc in Computer Science & Engineering**
+- 📚 **Diploma in Computer Science & Engineering**
+- 📖 **Secondary School Certificate**
+
+---
+
+## 🎨 Hobbies & Interests
+
+✈️ Traveling • 🏸 Badminton • 🏏 Cricket • 🚴 Bi-Cycling • 🚶 Walking • 🧘 Meditation
+
+---
+
 ## 💼 Professional Journey
 
-### 🚀 Senior Software Engineer Team Lead
+### 🚀 Senior Software Engineer (Team Lead)
 **Gain Solutions Ltd** | *Oct 2023 – Dec 2025*
 
 <details>
@@ -135,6 +225,7 @@
 
 <div align="center">
 
+### 💼 Gain Solutions Projects
 <table>
 <tr>
 <td align="center" width="33%">
@@ -156,6 +247,23 @@
 </a>
 </td>
 </tr>
+</table>
+
+### 💻 Freelance Projects
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://affinity.netlify.wizardcld.com">
+<img src="https://portfolio.wizardcld.com/assets/projects/affinity.png" height="180" alt="Affinity CRM"/><br/>
+<b>📊 Affinity CRM</b><br/>
+<sub>Fiverr.com</sub>
+</a>
+</td>
+</tr>
+</table>
+
+### 🚀 Personal Projects
+<table>
 <tr>
 <td align="center" width="33%">
 <a href="https://cashio.wizardcld.com">
@@ -180,17 +288,14 @@
 <td align="center" width="33%">
 <a href="https://next.wizardcld.com">
 <img src="https://portfolio.wizardcld.com/assets/projects/next.png" height="180" alt="NextJS Admin"/><br/>
-<b>⚡ NextJS Admin</b>
+<b>⚡ Next Admin Panel</b>
 </a>
 </td>
 <td align="center" width="33%">
 <a href="https://nuxt.wizardcld.com">
 <img src="https://portfolio.wizardcld.com/assets/projects/nuxt.png" height="180" alt="NuxtJS Admin"/><br/>
-<b>🚀 NuxtJS Admin</b>
+<b>🚀 Nuxt Admin Panel</b>
 </a>
-</td>
-<td align="center" width="33%">
-<!-- Space for future project -->
 </td>
 </tr>
 </table>
