@@ -25,7 +25,7 @@
 
 <br/>
 
-<table width="100%">
+<table border="0" width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -55,7 +55,6 @@ const elias = {
 - ☁️ AWS & Cloud Infrastructure Expert
 - 🤝 Open to collaborations & opportunities
 - 🚀 Building scalable solutions for global impact
-- 🎓 6+ years of full-stack development experience
 - 📈 Optimizing systems for maximum performance
 
 </td>
@@ -190,7 +189,7 @@ const elias = {
 
 <br/>
 
-<table width="100%">
+<table border="0" width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -233,7 +232,7 @@ const elias = {
 
 <br/>
 
-<table width="100%">
+<table border="0" width="100%">
 <tr>
 <td width="100%">
 
@@ -355,7 +354,7 @@ const elias = {
 
 </div>
 
-<table width="100%">
+<table border="0" width="100%">
 <tr>
 <td width="33%" valign="middle">
 
@@ -426,7 +425,7 @@ Customer support platform with ticketing system and live chat.
 
 </div>
 
-<table width="100%">
+<table border="0" width="100%">
 <tr>
 <td width="50%" valign="middle">
 
@@ -474,7 +473,7 @@ Stay tuned for exciting new projects!
 
 </div>
 
-<table width="100%">
+<table border="0" width="100%">
 <tr>
 <td width="33%" valign="middle">
 
