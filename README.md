@@ -43,12 +43,19 @@ As a senior web developer with a strong background in leading teams and managing
 <tr>
   <td align="center"><img src="https://portfolio.wizardcld.com/assets/tools/aws.png" width="50"/><br/>AWS</td>
   <td align="center"><img src="https://portfolio.wizardcld.com/assets/tools/lambda.webp" width="50"/><br/>AWS Lambda</td>
+  <td align="center"><img src="https://portfolio.wizardcld.com/assets/tools/amplify.png" width="50"/><br/>AWS Amplify</td>
   <td align="center"><img src="https://portfolio.wizardcld.com/assets/tools/s3.png" width="50"/><br/>AWS S3</td>
 </tr>
 <tr>
-  <td align="center"><img src="https://portfolio.wizardcld.com/assets/tools/graphql.png" width="50"/><br/>GraphQL</td>
+  <td align="center"><img src="https://portfolio.wizardcld.com/assets/tools/nest.png" width="50"/><br/>Nest.js</td>
   <td align="center"><img src="https://portfolio.wizardcld.com/assets/tools/express.png" width="50"/><br/>Express.js</td>
   <td align="center"><img src="https://portfolio.wizardcld.com/assets/tools/node.webp" width="50"/><br/>Node.js</td>
+  <td align="center"><img src="https://portfolio.wizardcld.com/assets/tools/graphql.png" width="50"/><br/>GraphQL</td>
+</tr>
+<tr>
+  <td align="center"><img src="https://portfolio.wizardcld.com/assets/tools/laravel.webp" width="50"/><br/>Laravel</td>
+  <td align="center"><img src="https://portfolio.wizardcld.com/assets/tools/django.png" width="50"/><br/>Django</td>
+  <td align="center"><img src="https://portfolio.wizardcld.com/assets/tools/python.jpg" width="50"/><br/>Python</td>
 </tr>
 <tr>
   <td align="center"><img src="https://portfolio.wizardcld.com/assets/tools/next.webp" width="50"/><br/>Next.js</td>
@@ -62,7 +69,7 @@ As a senior web developer with a strong background in leading teams and managing
 ## Work Experience  
 
 ### Senior Software Engineer Team Lead  
-**Gain Solutions Ltd (Oct 2023 – Till Now)**  
+**Gain Solutions Ltd (Oct 2023 – Dec 2025)**  
 
 - Architect and develop scalable backend systems  
 - Design and implement APIs for seamless integration  
