@@ -1,11 +1,12 @@
 <div align="center">
 
-# 👋 Hello, I'm Sheikh - The Wizard! ✨
+# 👋 Hello, I'm Elias Shekh - The Wizard! ✨
 
-### Senior Web Developer | Team Lead | Full-Stack Engineer
+### Senior Software Engineer | Team Lead | Full-Stack Engineer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Senior+Software+Engineer;Full-Stack+Developer;Cloud+Architecture+Expert;Always+learning+new+things!" alt="Typing SVG" />
 
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-portfolio.wizardcld.com-orange?style=flat)](https://portfolio.wizardcld.com)
 [![GitHub followers](https://img.shields.io/github/followers/ThisIsTheWizard?style=social)](https://github.com/ThisIsTheWizard)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sheikh-is-the-wizard/)
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=flat&logo=facebook)](https://www.facebook.com/SheikhIsTheWizard)
@@ -18,7 +19,7 @@
 
 ## 🎯 About Me
 
-> As a senior web developer with a strong background in leading teams and managing projects throughout the entire software development lifecycle, my expertise spans both front-end and back-end development. I'm passionate about building scalable systems, optimizing cloud infrastructure, and mentoring teams to deliver exceptional software solutions.
+> As a senior software engineer with a strong background in leading teams and managing projects throughout the entire software development lifecycle, my expertise spans both front-end and back-end development. I'm passionate about building scalable systems, optimizing cloud infrastructure, and mentoring teams to deliver exceptional software solutions.
 
 <div align="center">
 
@@ -32,31 +33,11 @@
 
 ## 💼 Core Competencies
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### 🏗️ Architecture & Infrastructure
-- 🧩 System Architecture Design
-- ☁️ Cloud Infrastructure Management
-- 🌥️ Cloud Deployment & Migration
-- 🔄 CI/CD Pipeline Implementation
-- 📈 Performance Optimization
-
-</td>
-<td width="50%" valign="top">
+🧩 System Architecture Design • ☁️ Cloud Infrastructure Management • 🌥️ Cloud Deployment & Migration • 🔄 CI/CD Pipeline Implementation • 📈 Performance Optimization
 
 ### 💻 Development & Leadership
-- 💻 Full-Stack Development
-- 📱 Mobile App Development
-- 📊 Database Management
-- 🧪 Software Testing & QA
-- 👥 Team Leadership & Mentoring
-- 📝 Technical Documentation
-
-</td>
-</tr>
-</table>
+💻 Full-Stack Development • 📱 Mobile App Development • 📊 Database Management • 🧪 Software Testing & QA • 👥 Team Leadership & Mentoring • 📝 Technical Documentation
 
 ---
 
@@ -224,6 +205,7 @@
 
 **Feel free to reach out for collaborations, opportunities, or just a friendly chat!**
 
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-orange?style=for-the-badge)](https://portfolio.wizardcld.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/ThisIsTheWizard)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sheikh-is-the-wizard/)
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/SheikhIsTheWizard)
