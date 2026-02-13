@@ -446,36 +446,17 @@ Stay tuned for exciting new projects!
 
 <div align="center">
 
-<a href="https://resumai.wizardcld.com">
-  <img src="https://portfolio.wizardcld.com/assets/projects/resumai.png" alt="ResumAI" width="100%" style="border-radius: 10px;"/>
+<a href="https://designsghor.com">
+  <img src="https://portfolio.wizardcld.com/assets/projects/designghor.png" alt="DesignGhor" width="100%" style="border-radius: 10px;"/>
 </a>
 
-#### 📝 [ResumAI](https://resumai.wizardcld.com) 🤖
+#### 🎨 [DesignGhor](https://designsghor.com)
 
-`AI-Powered` `Resume Builder` `Career`
+`Design Agency` `Portfolio` `Creative`
 
-AI-powered resume builder with smart suggestions and intelligent formatting.
+Creative design agency platform showcasing portfolio and services.
 
-[![Visit](https://img.shields.io/badge/Visit-Live_Site-success?style=flat-square&logo=google-chrome)](https://resumai.wizardcld.com)
-
-</div>
-
-</td>
-<td width="33%" valign="middle">
-
-<div align="center">
-
-<a href="https://cashioai.wizardcld.com">
-  <img src="https://portfolio.wizardcld.com/assets/projects/cashioai.png" alt="CashioAI" width="100%" style="border-radius: 10px;"/>
-</a>
-
-#### 💼 [CashioAI](https://cashioai.wizardcld.com) 🤖
-
-`AI-Powered` `Finance` `Analytics`
-
-Intelligent finance tracking with AI-driven insights and predictions.
-
-[![Visit](https://img.shields.io/badge/Visit-Live_Site-success?style=flat-square&logo=google-chrome)](https://cashioai.wizardcld.com)
+[![Visit](https://img.shields.io/badge/Visit-Live_Site-success?style=flat-square&logo=google-chrome)](https://designsghor.com)
 
 </div>
 
@@ -499,8 +480,46 @@ AI-native marketing orchestration platform for modern SaaS teams
 </div>
 
 </td>
+<td width="33%" valign="middle">
+
+<div align="center">
+
+<a href="https://resumai.wizardcld.com">
+  <img src="https://portfolio.wizardcld.com/assets/projects/resumai.png" alt="ResumAI" width="100%" style="border-radius: 10px;"/>
+</a>
+
+#### 📝 [ResumAI](https://resumai.wizardcld.com) 🤖
+
+`AI-Powered` `Resume Builder` `Career`
+
+AI-powered resume builder with smart suggestions and intelligent formatting.
+
+[![Visit](https://img.shields.io/badge/Visit-Live_Site-success?style=flat-square&logo=google-chrome)](https://resumai.wizardcld.com)
+
+</div>
+
+</td>
 </tr>
 <tr>
+<td width="33%" valign="middle">
+
+<div align="center">
+
+<a href="https://cashioai.wizardcld.com">
+  <img src="https://portfolio.wizardcld.com/assets/projects/cashioai.png" alt="CashioAI" width="100%" style="border-radius: 10px;"/>
+</a>
+
+#### 💼 [CashioAI](https://cashioai.wizardcld.com) 🤖
+
+`AI-Powered` `Finance` `Analytics`
+
+Intelligent finance tracking with AI-driven insights and predictions.
+
+[![Visit](https://img.shields.io/badge/Visit-Live_Site-success?style=flat-square&logo=google-chrome)](https://cashioai.wizardcld.com)
+
+</div>
+
+</td>
 <td width="33%" valign="middle">
 
 <div align="center">
@@ -516,25 +535,6 @@ AI-native marketing orchestration platform for modern SaaS teams
 Modern accounting and financial ledger management system.
 
 [![Visit](https://img.shields.io/badge/Visit-Live_Site-success?style=flat-square&logo=google-chrome)](https://ledgr.wizardcld.com)
-
-</div>
-
-</td>
-<td width="33%" valign="middle">
-
-<div align="center">
-
-<a href="https://designsghor.com">
-  <img src="https://portfolio.wizardcld.com/assets/projects/designghor.png" alt="DesignGhor" width="100%" style="border-radius: 10px;"/>
-</a>
-
-#### 🎨 [DesignGhor](https://designsghor.com)
-
-`Design Agency` `Portfolio` `Creative`
-
-Creative design agency platform showcasing portfolio and services.
-
-[![Visit](https://img.shields.io/badge/Visit-Live_Site-success?style=flat-square&logo=google-chrome)](https://designsghor.com)
 
 </div>
 
