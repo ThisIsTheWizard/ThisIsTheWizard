@@ -27,12 +27,12 @@
 
 ```typescript
 const eliasShekh = {
-  role: "Senior Software Engineer",
+  role: "Senior Software Engineer & AI Specialist",
   company: "Gain Solutions Ltd",
   location: "Bangladesh 🇧🇩",
-  experience: "6+ years",
-  focus: ["Full-Stack", "Cloud", "Leadership"],
-  passion: "Building scalable solutions",
+  experience: "7+ years",
+  focus: ["Full-Stack", "AI Development", "Cloud", "Leadership"],
+  passion: "Building AI-powered scalable solutions",
   motto: "Code, Learn, Lead, Repeat 🔄"
 };
 ```
@@ -41,20 +41,20 @@ const eliasShekh = {
 
 <div align="center">
 
-> As a senior software engineer with a strong background in leading teams and managing projects throughout the entire software development lifecycle. My expertise spans both front-end and back-end development, with a focus on Node.js and modern web technologies. I enjoy mentoring others, encouraging collaboration, and driving projects from initial concept to successful delivery
+> Accomplished Senior Software Engineer and AI Specialist with expertise in full-stack development using React, Next.js, Nest.js, TypeScript, and GraphQL. Specialized in building AI-powered applications using LangChain, RAG, and integrating OpenAI, Claude, and Gemini models. Strong background in AWS cloud infrastructure, team leadership, and driving projects from concept to successful delivery.
 
 </div>
 
 ### 🚀 Quick Facts
 
 - 🔭 Currently leading engineering teams
-- 🌱 Exploring advanced cloud architectures
+- 🤖 Building AI-powered applications with LangChain & RAG
+- 🌱 Integrating OpenAI, Claude, and Gemini models
 - 💡 Passionate about mentoring developers
 - 🎯 Driving projects from concept to delivery
 - ☁️ AWS & Cloud Infrastructure Expert
 - 🤝 Open to collaborations & opportunities
-- 🚀 Building scalable solutions for global impact
-- 📈 Optimizing systems for maximum performance
+- 🚀 Building scalable AI solutions for global impact
 
 <br/>
 
@@ -178,6 +178,12 @@ const eliasShekh = {
 </div>
 
 <br/>
+
+#### 🤖 AI & Machine Learning
+- 🧠 AI Integration & Implementation
+- 💬 Chatbot Development & Conversational AI
+- 🔍 RAG Systems (Retrieval-Augmented Generation)
+- 🔗 LangChain/LangGraph Pipeline Architecture
 
 #### Architecture & Design
 - 🖥️ Website Architecture & Design
@@ -344,11 +350,11 @@ A comprehensive property management platform for accommodations.
   <img src="https://portfolio.wizardcld.com/assets/projects/payrun.webp" alt="PayRun" width="100%" style="border-radius: 10px;"/>
 </a>
 
-#### 💰 [PayRun](https://payrun.app)
+#### 💰 [PayRun](https://payrun.app) 🤖
 
-`HR Management` `Payroll` `Hiring`
+`HR Management` `Payroll` `AI-Powered`
 
-Simplified HR management solutions for managing employees, hiring, and generating payrolls.
+AI-powered payroll management system with automated processing and intelligent employee management.
 
 [![Visit](https://img.shields.io/badge/Visit-Live_Site-success?style=flat-square&logo=google-chrome)](https://payrun.app)
 
@@ -363,11 +369,11 @@ Simplified HR management solutions for managing employees, hiring, and generatin
   <img src="https://portfolio.wizardcld.com/assets/projects/easydesk.webp" alt="EasyDesk" width="100%" style="border-radius: 10px;"/>
 </a>
 
-#### 📞 [EasyDesk](https://easydesk.app)
+#### 📞 [EasyDesk](https://easydesk.app) 🤖
 
-`Help Desk` `Customer Support`
+`Help Desk` `AI-Powered` `Customer Support`
 
-Customer support platform with ticketing system and live chat.
+Intelligent helpdesk solution with AI-assisted ticket management and automated support.
 
 [![Visit](https://img.shields.io/badge/Visit-Live_Site-success?style=flat-square&logo=google-chrome)](https://easydesk.app)
 
@@ -430,7 +436,7 @@ Stay tuned for exciting new projects!
 <div align="center">
 
 ### 🚀 Personal Projects
-*Passion projects and open-source contributions*
+*Passion projects and AI innovations*
 
 </div>
 
@@ -440,17 +446,17 @@ Stay tuned for exciting new projects!
 
 <div align="center">
 
-<a href="https://cashio.wizardcld.com">
-  <img src="https://portfolio.wizardcld.com/assets/projects/cashio.png" alt="Cashio" width="100%" style="border-radius: 10px;"/>
+<a href="https://resumai.wizardcld.com">
+  <img src="https://portfolio.wizardcld.com/assets/projects/resumai.png" alt="ResumAI" width="100%" style="border-radius: 10px;"/>
 </a>
 
-#### 💼 [Cashio Accountant](https://cashio.wizardcld.com)
+#### 📝 [ResumAI](https://resumai.wizardcld.com) 🤖
 
-`AI Assistant` `Accounting` `Finance`
+`AI-Powered` `Resume Builder` `Career`
 
-Personal finance and accounting management system.
+AI-powered resume builder with smart suggestions and intelligent formatting.
 
-[![Visit](https://img.shields.io/badge/Visit-Live_Site-success?style=flat-square&logo=google-chrome)](https://cashio.wizardcld.com)
+[![Visit](https://img.shields.io/badge/Visit-Live_Site-success?style=flat-square&logo=google-chrome)](https://resumai.wizardcld.com)
 
 </div>
 
@@ -459,17 +465,17 @@ Personal finance and accounting management system.
 
 <div align="center">
 
-<a href="https://account.wizardcld.com">
-  <img src="https://portfolio.wizardcld.com/assets/projects/wam.png" alt="Wizard Accounts" width="100%" style="border-radius: 10px;"/>
+<a href="https://cashioai.wizardcld.com">
+  <img src="https://portfolio.wizardcld.com/assets/projects/cashioai.png" alt="CashioAI" width="100%" style="border-radius: 10px;"/>
 </a>
 
-#### 🧙 [Wizard Accounts Manager](https://account.wizardcld.com)
+#### 💼 [CashioAI](https://cashioai.wizardcld.com) 🤖
 
-`Accounting` `Finance`
+`AI-Powered` `Finance` `Analytics`
 
-Multi-tenant account management system with role-based access.
+Intelligent finance tracking with AI-driven insights and predictions.
 
-[![Visit](https://img.shields.io/badge/Visit-Live_Site-success?style=flat-square&logo=google-chrome)](https://account.wizardcld.com)
+[![Visit](https://img.shields.io/badge/Visit-Live_Site-success?style=flat-square&logo=google-chrome)](https://cashioai.wizardcld.com)
 
 </div>
 
@@ -478,17 +484,17 @@ Multi-tenant account management system with role-based access.
 
 <div align="center">
 
-<a href="https://designghor.com">
-  <img src="https://portfolio.wizardcld.com/assets/projects/dg.jpg" alt="DesignGhor" width="100%" style="border-radius: 10px;"/>
+<a href="https://synapseai.wizardcld.com">
+  <img src="https://portfolio.wizardcld.com/assets/projects/synapseai.png" alt="SynapseAI" width="100%" style="border-radius: 10px;"/>
 </a>
 
-#### 🎨 [DesignGhor](https://designghor.com)
+#### 🧠 [SynapseAI](https://synapseai.wizardcld.com) 🤖
 
-`Design` `E-commerce`
+`AI Platform` `Under Development` `Coming Soon`
 
-Creative design marketplace and portfolio platform.
+AI-native marketing orchestration platform for modern SaaS teams
 
-[![Visit](https://img.shields.io/badge/Visit-Live_Site-success?style=flat-square&logo=google-chrome)](https://designghor.com)
+[![Visit](https://img.shields.io/badge/Visit-Coming_Soon-yellow?style=flat-square&logo=google-chrome)](https://synapseai.wizardcld.com)
 
 </div>
 
@@ -499,21 +505,61 @@ Creative design marketplace and portfolio platform.
 
 <div align="center">
 
+<a href="https://ledgr.wizardcld.com">
+  <img src="https://portfolio.wizardcld.com/assets/projects/ledgr.png" alt="Ledgr" width="100%" style="border-radius: 10px;"/>
+</a>
+
+#### 📊 [Ledgr](https://ledgr.wizardcld.com)
+
+`Accounting` `Finance` `Ledger`
+
+Modern accounting and financial ledger management system.
+
+[![Visit](https://img.shields.io/badge/Visit-Live_Site-success?style=flat-square&logo=google-chrome)](https://ledgr.wizardcld.com)
+
+</div>
+
+</td>
+<td width="33%" valign="middle">
+
+<div align="center">
+
+<a href="https://designsghor.com">
+  <img src="https://portfolio.wizardcld.com/assets/projects/designghor.png" alt="DesignGhor" width="100%" style="border-radius: 10px;"/>
+</a>
+
+#### 🎨 [DesignGhor](https://designsghor.com)
+
+`Design Agency` `Portfolio` `Creative`
+
+Creative design agency platform showcasing portfolio and services.
+
+[![Visit](https://img.shields.io/badge/Visit-Live_Site-success?style=flat-square&logo=google-chrome)](https://designsghor.com)
+
+</div>
+
+</td>
+<td width="33%" valign="middle">
+
+<div align="center">
+
 <a href="https://next.wizardcld.com">
   <img src="https://portfolio.wizardcld.com/assets/projects/next.png" alt="Next Admin" width="100%" style="border-radius: 10px;"/>
 </a>
 
 #### ⚡ [Next Admin Panel](https://next.wizardcld.com)
 
-`Admin Dashboard` `Template`
+`Admin Dashboard` `Next.js` `Template`
 
-Modern admin dashboard template with Next.js and TypeScript.
+Feature-rich admin dashboard built with Next.js and TypeScript.
 
 [![Visit](https://img.shields.io/badge/Visit-Live_Site-success?style=flat-square&logo=google-chrome)](https://next.wizardcld.com)
 
 </div>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="middle">
 
 <div align="center">
@@ -524,9 +570,9 @@ Modern admin dashboard template with Next.js and TypeScript.
 
 #### 🚀 [Nuxt Admin Panel](https://nuxt.wizardcld.com)
 
-`Admin Dashboard` `Template`
+`Admin Dashboard` `Nuxt.js` `Template`
 
-Elegant admin dashboard template built with Nuxt.js.
+Vue-based admin panel template using Nuxt.js framework.
 
 [![Visit](https://img.shields.io/badge/Visit-Live_Site-success?style=flat-square&logo=google-chrome)](https://nuxt.wizardcld.com)
 
@@ -534,6 +580,7 @@ Elegant admin dashboard template built with Nuxt.js.
 
 </td>
 
+<td width="33%" valign="top"></td>
 <td width="33%" valign="top"></td>
 
 </tr>
