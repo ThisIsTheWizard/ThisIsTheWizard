@@ -27,7 +27,7 @@
 
 ```typescript
 const eliasShekh = {
-  role: "Senior Software Engineer & AI Specialist",
+  role: "Senior Software Engineer building production-ready backend & AI systems for SaaS products",
   company: "Gain Solutions Ltd",
   location: "Bangladesh 🇧🇩",
   experience: "7+ years",
@@ -41,7 +41,12 @@ const eliasShekh = {
 
 <div align="center">
 
-> Accomplished Senior Software Engineer and AI Specialist with expertise in full-stack development using React, Next.js, Nest.js, TypeScript, and GraphQL. Specialized in building AI-powered applications using LangChain, RAG, and integrating OpenAI, Claude, and Gemini models. Strong background in AWS cloud infrastructure, team leadership, and driving projects from concept to successful delivery.
+> I work as a senior software engineer building and maintaining production systems for SaaS products.
+> Technically, my background is primarily in TypeScript-based backend systems (Node.js, NestJS, GraphQL), with experience building full-stack SaaS products and integrating LLM-powered features using RAG patterns, LangChain, and LangGraph in production.
+> Most of my work focuses on backend architecture, API design, and long-term system reliability—especially in fast-moving teams where requirements evolve quickly and systems need to scale without becoming fragile.
+> In recent years, I’ve worked at the intersection of web engineering and applied AI, designing automation workflows and AI-assisted tools that fit naturally into existing architectures.
+> I care deeply about clear boundaries, pragmatic trade-offs, and building systems that are easy to reason about in production. Beyond writing code, I collaborate closely with product, QA, and engineering teams to ship features end-to-end and support them after release.
+> If you’re building a backend-heavy product or introducing AI into an existing system and want to think through architecture, constraints, or scaling challenges, I’m always open to exchanging notes.
 
 </div>
 
