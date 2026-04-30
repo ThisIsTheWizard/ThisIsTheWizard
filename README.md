@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=Senior+Software+Engineer+%F0%9F%9A%80;Full-Stack+Developer+%F0%9F%92%BB;Cloud+Architecture+Expert+%E2%98%81%EF%B8%8F;Team+Lead+%26+Mentor+%F0%9F%91%A5)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://portfolio.wizardcld.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://eliasshekh.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   <a href="https://github.com/ThisIsTheWizard"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/sheikh-is-the-wizard/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.facebook.com/SheikhIsTheWizard"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
@@ -333,7 +333,7 @@ const eliasShekh = {
 <div align="center">
 
 <a href="https://uniteliving.com">
-  <img src="https://portfolio.wizardcld.com/assets/projects/ul.png" alt="Unite Living" width="100%" style="border-radius: 10px;"/>
+  <img src="https://eliasshekh.com/assets/projects/ul.png" alt="Unite Living" width="100%" style="border-radius: 10px;"/>
 </a>
 
 #### 🏠 [Unite Living](https://uniteliving.com)
@@ -352,7 +352,7 @@ A comprehensive property management platform for accommodations.
 <div align="center">
 
 <a href="https://payrun.app">
-  <img src="https://portfolio.wizardcld.com/assets/projects/payrun.webp" alt="PayRun" width="100%" style="border-radius: 10px;"/>
+  <img src="https://eliasshekh.com/assets/projects/payrun.webp" alt="PayRun" width="100%" style="border-radius: 10px;"/>
 </a>
 
 #### 💰 [PayRun](https://payrun.app) 🤖
@@ -371,7 +371,7 @@ AI-powered payroll management system with automated processing and intelligent e
 <div align="center">
 
 <a href="https://easydesk.app">
-  <img src="https://portfolio.wizardcld.com/assets/projects/easydesk.webp" alt="EasyDesk" width="100%" style="border-radius: 10px;"/>
+  <img src="https://eliasshekh.com/assets/projects/easydesk.webp" alt="EasyDesk" width="100%" style="border-radius: 10px;"/>
 </a>
 
 #### 📞 [EasyDesk](https://easydesk.app) 🤖
@@ -404,7 +404,7 @@ Intelligent helpdesk solution with AI-assisted ticket management and automated s
 <div align="center">
 
 <a href="https://affinity.netlify.wizardcld.com">
-  <img src="https://portfolio.wizardcld.com/assets/projects/affinity.png" alt="Affinity CRM" width="100%" style="border-radius: 10px;"/>
+  <img src="https://eliasshekh.com/assets/projects/affinity.png" alt="Affinity CRM" width="100%" style="border-radius: 10px;"/>
 </a>
 
 #### 📊 [Affinity CRM](https://affinity.netlify.wizardcld.com)
@@ -452,7 +452,7 @@ Stay tuned for exciting new projects!
 <div align="center">
 
 <a href="https://designsghor.com">
-  <img src="https://portfolio.wizardcld.com/assets/projects/designghor.png" alt="DesignGhor" width="100%" style="border-radius: 10px;"/>
+  <img src="https://eliasshekh.com/assets/projects/designghor.png" alt="DesignGhor" width="100%" style="border-radius: 10px;"/>
 </a>
 
 #### 🎨 [DesignGhor](https://designsghor.com)
@@ -471,7 +471,7 @@ Creative design agency platform showcasing portfolio and services.
 <div align="center">
 
 <a href="https://synapseai.wizardcld.com">
-  <img src="https://portfolio.wizardcld.com/assets/projects/synapseai.png" alt="SynapseAI" width="100%" style="border-radius: 10px;"/>
+  <img src="https://eliasshekh.com/assets/projects/synapseai.png" alt="SynapseAI" width="100%" style="border-radius: 10px;"/>
 </a>
 
 #### 🧠 [SynapseAI](https://synapseai.wizardcld.com) 🤖
@@ -490,7 +490,7 @@ AI-native marketing orchestration platform for modern SaaS teams
 <div align="center">
 
 <a href="https://resumai.wizardcld.com">
-  <img src="https://portfolio.wizardcld.com/assets/projects/resumai.png" alt="ResumAI" width="100%" style="border-radius: 10px;"/>
+  <img src="https://eliasshekh.com/assets/projects/resumai.png" alt="ResumAI" width="100%" style="border-radius: 10px;"/>
 </a>
 
 #### 📝 [ResumAI](https://resumai.wizardcld.com) 🤖
@@ -511,7 +511,7 @@ AI-powered resume builder with smart suggestions and intelligent formatting.
 <div align="center">
 
 <a href="https://cashioai.wizardcld.com">
-  <img src="https://portfolio.wizardcld.com/assets/projects/cashioai.png" alt="CashioAI" width="100%" style="border-radius: 10px;"/>
+  <img src="https://eliasshekh.com/assets/projects/cashioai.png" alt="CashioAI" width="100%" style="border-radius: 10px;"/>
 </a>
 
 #### 💼 [CashioAI](https://cashioai.wizardcld.com) 🤖
@@ -530,7 +530,7 @@ Intelligent finance tracking with AI-driven insights and predictions.
 <div align="center">
 
 <a href="https://ledgr.wizardcld.com">
-  <img src="https://portfolio.wizardcld.com/assets/projects/ledgr.png" alt="Ledgr" width="100%" style="border-radius: 10px;"/>
+  <img src="https://eliasshekh.com/assets/projects/ledgr.png" alt="Ledgr" width="100%" style="border-radius: 10px;"/>
 </a>
 
 #### 📊 [Ledgr](https://ledgr.wizardcld.com)
@@ -549,7 +549,7 @@ Modern accounting and financial ledger management system.
 <div align="center">
 
 <a href="https://next.wizardcld.com">
-  <img src="https://portfolio.wizardcld.com/assets/projects/next.png" alt="Next Admin" width="100%" style="border-radius: 10px;"/>
+  <img src="https://eliasshekh.com/assets/projects/next.png" alt="Next Admin" width="100%" style="border-radius: 10px;"/>
 </a>
 
 #### ⚡ [Next Admin Panel](https://next.wizardcld.com)
@@ -570,7 +570,7 @@ Feature-rich admin dashboard built with Next.js and TypeScript.
 <div align="center">
 
 <a href="https://nuxt.wizardcld.com">
-  <img src="https://portfolio.wizardcld.com/assets/projects/nuxt.png" alt="Nuxt Admin" width="100%" style="border-radius: 10px;"/>
+  <img src="https://eliasshekh.com/assets/projects/nuxt.png" alt="Nuxt Admin" width="100%" style="border-radius: 10px;"/>
 </a>
 
 #### 🚀 [Nuxt Admin Panel](https://nuxt.wizardcld.com)
@@ -635,7 +635,7 @@ Vue-based admin panel template using Nuxt.js framework.
 <table>
 <tr>
 <td align="center" width="25%">
-<a href="https://portfolio.wizardcld.com">
+<a href="https://eliasshekh.com">
 <img src="https://img.icons8.com/color/96/000000/domain.png" width="60"/><br/>
 <b>Portfolio</b><br/>
 <sub>My Showcase</sub>
